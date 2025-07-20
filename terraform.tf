@@ -28,8 +28,8 @@ terraform {
    /* cloudinit = {
       source  = "hashicorp/cloudinit"
       version = "~> 2.3.4"
-    }
-  } */
+    } */
+  } 
 
   required_version = "~> 1.3"
 }
